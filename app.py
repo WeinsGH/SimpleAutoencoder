@@ -3,7 +3,7 @@ import torch
 from torchvision import transforms
 from PIL import Image
 from funcs import preprocess_image, transforming
-from our_models import ImprovedConvAutoencoder
+from AutoEncoder_model import ImprovedConvAutoencoder
 
 
 def main():
