@@ -12,7 +12,7 @@ This service is implemented on [Streamlit](https://simpleautoencoder-bs39kbsh8eb
 ![image](https://github.com/WeinsGH/SimpleAutoencoder/assets/109025285/1e866f02-50a4-4554-8600-5e58d9095d8f)
 
 ----
-#Train 
+# Train/Valid MSE
 ![photo_2023-12-01_13-19-42](https://github.com/WeinsGH/SimpleAutoencoder/assets/109025285/d40c886c-6b1d-4e38-8c15-821f6814c0a2)
 
 
